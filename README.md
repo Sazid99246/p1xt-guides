@@ -65,7 +65,7 @@ The goal of Tier 1 is to gain a robust foundational knowledge of web development
   
 | Activity                                                                                                                                                                     | Status | Evidence |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----: | :------: |
-| [Course: HTML & CSS Crash Course](https://v2.scrimba.com/html-css-crash-course-c02l)                                                                                         |        |          |
+| [Course: HTML & CSS Crash Course](https://v2.scrimba.com/html-css-crash-course-c02l)                                                                                         | in-progress       |          |
 | [ Course: Learn Flexbox](https://v2.scrimba.com/learn-flexbox-c0k)                                                                                                           |        |          |
 | [ Course: Learn CSS Grid](https://v2.scrimba.com/learn-css-grid-c02k)                                                                                                        |        |          |
 | [Project: Profile card component](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ)                                                                 |        |          |
@@ -417,7 +417,7 @@ Note: As I said above, don't stress about math. Should you desire to leverage a 
 
 | Courses                                                                               | Status | Evidence |
 | :------------------------------------------------------------------------------------ | :----: | :------: |
-| [Arithmetic](https://www.khanacademy.org/math/arithmetic)                             |        |          |
+| [Arithmetic](https://www.khanacademy.org/math/arithmetic)                             | in-progress |          |
 | [Pre-algebra](https://www.khanacademy.org/math/pre-algebra)                           |        |          |
 | [Algebra I](https://www.khanacademy.org/math/algebra)                                 |        |          |
 | [Geometry](https://www.khanacademy.org/math/geometry)                                 |        |          |
