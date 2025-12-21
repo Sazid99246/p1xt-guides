@@ -335,7 +335,7 @@ Note: As I said above, don't stress about math. Should you desire to leverage a 
 
 | Courses                                                                               |    Status   |                     Evidence                     |
 | :------------------------------------------------------------------------------------ | :---------: | :----------------------------------------------: |
-| [Arithmetic](https://www.khanacademy.org/math/arithmetic)                             |  Completed  | [Progress](images/arithmetic-course-progress.png)|
+| [Arithmetic](https://www.khanacademy.org/math/arithmetic)                             |  Completed  | ![Progress](images/arithmetic-course-progress.png)|
 | [Pre-algebra](https://www.khanacademy.org/math/pre-algebra)                           | In Progress |                                                  |
 | [Algebra I](https://www.khanacademy.org/math/algebra)                                 | In Progress |                                                  |
 | [Geometry](https://www.khanacademy.org/math/geometry)                                 |             |                                                  |
