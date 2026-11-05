@@ -103,10 +103,10 @@ The goal of Tier 2 is to gain substantial hands-on programming practice. You hav
 - Take time to read from the reading list
 - Near the end of this tier, polish up two of your best projects, showcasing your best work, for potential leverage in creating your portfolio in Tier 4.
 
-| Courses                                                                                                                                                                                                          |   Status   |                          Evidence                          |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :--------------------------------------------------------: |
-| [Full Stack Open](https://fullstackopen.com/en/)                                                                                                                                                                 |  completed | [Repository](https://github.com/Sazid99246/fullstack-open) |
-| [MongoDB Node.js Developer Path ](https://learn.mongodb.com/learning-paths/mongodb-nodejs-developer-path?sessionFields=%5B%5B%22format%22%2C%22Free%22%5D%2C%5B%22certifiction%22%2C%22Learning%20Path%22%5D%5D) |            |                                                            |
+| Courses                                                                                                                                                                                                          |  Status   |                          Evidence                          |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------: | :--------------------------------------------------------: |
+| [Full Stack Open](https://fullstackopen.com/en/)                                                                                                                                                                 | completed | [Repository](https://github.com/Sazid99246/fullstack-open) |
+| [MongoDB Node.js Developer Path ](https://learn.mongodb.com/learning-paths/mongodb-nodejs-developer-path?sessionFields=%5B%5B%22format%22%2C%22Free%22%5D%2C%5B%22certifiction%22%2C%22Learning%20Path%22%5D%5D) | completed |                                                            |
 
 | Reading                           | Status | Evidence |
 | :-------------------------------- | :----: | :------: |
@@ -158,17 +158,17 @@ The goal of Tier 3 is to gain skills that will serve you well as you begin a job
 - Take time to read from the reading list
 - Near the end of this tier, polish up two of your best projects, showcasing your best work, for potential leverage in creating your portfolio in Tier 4.
 
-| Activity                                                                                                                                                                                                   | Status | Evidence |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----: | :------: |
-| [Computer Science: Programming with a Purpose](https://www.coursera.org/learn/cs-programming-java)                                                                                                         |        |          |
-| [Computer Science: Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines)                                                                                         |        |          |
-| [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)                                                                                                                                      |        |          |
-| [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)                                                                                                                                     |        |          |
-| [MongoDB Java Developer Path](https://learn.mongodb.com/learning-paths/mongodb-java-developer-path?sessionFields=%5B%5B%22format%22%2C%22Free%22%5D%2C%5B%22certifiction%22%2C%22Learning%20Path%22%5D%5D) |        |          |
-| [Exercism Java](https://exercism.org/tracks/java)                                                                                                                                                          |        |          |
-| [NeetCode 150](https://neetcode.io/practice)                                                                                                                                                               |        |          |
-| [LeetCode Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)                                                                                                                            |        |          |
-| [100 Challenges on CodinGame](https://www.codingame.com/training)                                                                                                                                          |        |          |
+| Activity                                                                                                                                                                                                   | Status  | Evidence |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----: | :------: |
+| [Computer Science: Programming with a Purpose](https://www.coursera.org/learn/cs-programming-java)                                                                                                         | Started |          |
+| [Computer Science: Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines)                                                                                         |         |          |
+| [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)                                                                                                                                      |         |          |
+| [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)                                                                                                                                     |         |          |
+| [MongoDB Java Developer Path](https://learn.mongodb.com/learning-paths/mongodb-java-developer-path?sessionFields=%5B%5B%22format%22%2C%22Free%22%5D%2C%5B%22certifiction%22%2C%22Learning%20Path%22%5D%5D) |         |          |
+| [Exercism Java](https://exercism.org/tracks/java)                                                                                                                                                          |         |          |
+| [NeetCode 150](https://neetcode.io/practice)                                                                                                                                                               |         |          |
+| [LeetCode Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)                                                                                                                            |         |          |
+| [100 Challenges on CodinGame](https://www.codingame.com/training)                                                                                                                                          |         |          |
 
 | Reading                                                           | Status | Evidence |
 | :---------------------------------------------------------------- | :----: | :------: |
